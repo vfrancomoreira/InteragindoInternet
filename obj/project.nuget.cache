@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fqZ58psCCAlGKHvYyD1R7UUSVUaM4XkH/fz6WXVUIMyWeEK2xyBf9F+d3jaY4zwg5hJqSpWRPorJScYEpVkHgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Estudo_das_linguagens\\CSharp\\Projeto04_InteragindoInternet_HTTP\\Projeto04_InteragindoInternet_HTTP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinic\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
